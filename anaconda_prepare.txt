@@ -1,0 +1,16 @@
+conda config --add channels defaults
+conda config --add channels bioconda
+conda config --add channels conda-forge
+
+
+
+Inter 2 times
+
+Conda create —-name bioinformatic python=3.7
+
+
+Conda install -c schrodinger pymol
+
+Pip install pdb_tools
+
+conda install -c bioconda gromacs
