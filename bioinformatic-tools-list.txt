@@ -1,0 +1,4 @@
+anaconda
+pdb-tools
+pymol
+schrodinger
