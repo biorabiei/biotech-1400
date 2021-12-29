@@ -2,3 +2,4 @@ anaconda
 pdb-tools
 pymol
 schrodinger
+gromacs
