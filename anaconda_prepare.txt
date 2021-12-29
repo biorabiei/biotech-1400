@@ -14,3 +14,5 @@ Conda install -c schrodinger pymol
 Pip install pdb_tools
 
 conda install -c bioconda gromacs
+
+conda install -c speleo3 pymol-psico
